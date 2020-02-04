@@ -1,0 +1,3 @@
+//single responsibility
+//
+//dependency inversion
