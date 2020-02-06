@@ -12,6 +12,4 @@ class Store {
     purchaseSensors(qty) {
         this.stripe.makePayment();
     }
-
 }
-
