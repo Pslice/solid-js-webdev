@@ -22,3 +22,12 @@ class Stripe {
         console.log(`${this.user} made payment of ${amount / 100} with Stripe`)
     }
 }
+
+class Paypal {
+
+}
+
+const store = new Store('Patrick');
+
+store.purchaseSensors(2);
+store.purchaseTubing(2);
